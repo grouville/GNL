@@ -1,4 +1,4 @@
-# gnl
+# GNL
 <b>Simple implementation of the getline function in C.</b>
 
 The aim of the project was to learn the use of static variables, and get familiar with the scope and longevity of variables and functions.
